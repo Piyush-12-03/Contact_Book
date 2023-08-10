@@ -140,9 +140,10 @@ public class contactbook {
                 case 5:
                     exit = true;
                     System.out.println("Exiting...");
+
                     break;
                 default:
-                    System.out.println("Invalid choice.");
+                    System.out.println("Invalid choice...");
                     break;
             }
         }
